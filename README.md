@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development .
 - 🌱 I’m currently learning python .
 - 💞️ I’m looking to collaborate on project making .
-- 📫 My instagram @utsav_uttu
+- 📫 My photography page @focusedbyutsav
 
 <!---
 utsav-uttu/utsav-uttu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
